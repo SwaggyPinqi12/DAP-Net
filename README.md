@@ -1,5 +1,11 @@
 # Dense Attention Pyramid Network (DAP-Net) for Fiberglass Defect Segmentation
 
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.17491225">
+    <img src="https://zenodo.org/badge/1086877854.svg" alt="DOI">
+  </a>
+</p>
+
 This repository contains the associated scripts, components, and evaluation tools for the paper:
 
 > **Enhancing Small-Scale Fiberglass Defect Segmentation: A Dense Attention Pyramid Network with Realistic Data Augmentation**  
@@ -79,7 +85,7 @@ To address this challenge, we propose **DAP-Net (Dense Attention Pyramid Network
     <a id="9">[9]</a> Xiao et al., *Unified Perceptual Parsing for Scene Understanding (UPerNet)*, 2018.  
     <a id="10">[10]</a> Xie et al., *SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers*, 2021.  
     <a id="11">[11]</a> Chen et al., *DPT: Vision Transformers for Dense Prediction Tasks*, 2021.  
-    <a id="12">[12]</a> Chen et al., *ID-UNet: Industrial Defect Segmentation Network*, 2025.
+    <a id="12">[12]</a> Chen et al., *ID-UNet: A densely connected UNet architecture for infrared small target segmentation.*, 2025.
 
    - Qualitative results
    <p align="center"><img src="./assets/Qualitative.png" width="600"></p>
