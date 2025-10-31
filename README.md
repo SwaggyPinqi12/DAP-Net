@@ -35,17 +35,13 @@ To address this challenge, we propose **DAP-Net (Dense Attention Pyramid Network
 1. **Dense Attention Pyramid Network (DAP-Net)**  
    Integrates a **dense encoder**, **pyramid decoder**, and **CBAM attention** to enhance multi-scale feature interaction and improve subtle defect localization. 
    - DAP-Net overall architecture
-   <p align="center"><img src="./assets/DAP-net.png" width="600"></p>
    
    - Dense encoder 
-   <p align="center"><img src="./assets/Encoder.png" width="600"></p>
    
    - Feature pyramid decoder
-   <p align="center"><img src="./assets/Decoder.png" width="600"></p>
 
 2. **Realistic Data Synthesis Strategy**  
    Adaptively fuses limited real samples to synthesize diverse defect patterns, effectively addressing few-shot learning challenges.  
-   <p align="center"><img src="./assets/Generation.png" width="600"></p>
 
 3. **Lightweight and High-Performance Segmentation**  
    Achieves **I-F1 94.84%**, **P-AP 73.24%**, and **P-F1 70.93%**, demonstrating state-of-the-art results with compact model size and real-time efficiency.  
